@@ -27,4 +27,8 @@ Microsoft Excel, PivotTable, PivotChart, SUMIF, AVERAGEIF, Microsoft PowerPoint.
 - A Serious Crash is defined as an event that results in injury to any of the parties involved and requires medical attention. 
 - A Minor Crash is defined as an event where no one needs medical attention but an injured person may sustain some bruising and superficial cuts (Shakil et al., 2023).
 
+## Metrics
+<img width="1919" height="1077" alt="1" src="https://github.com/user-attachments/assets/8bbb3e67-b91d-4795-b37d-859dbaf2c920" />
+
+
 ## Insights
