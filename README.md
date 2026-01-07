@@ -32,3 +32,23 @@ Microsoft Excel, PivotTable, PivotChart, SUMIF, AVERAGEIF, Microsoft PowerPoint.
 
 
 ## Insights
+### Vehicle Category
+<img width="1918" height="1079" alt="2" src="https://github.com/user-attachments/assets/ad2ac45c-ff33-43c9-ae87-c314516f9536" />
+
+<img width="1919" height="1077" alt="3" src="https://github.com/user-attachments/assets/e7fdf058-f62c-47e1-ad91-47dd229412ea" />
+
+### Vehicle Category involvement in Road Transport Crashes by Quarter
+<img width="1919" height="1079" alt="4" src="https://github.com/user-attachments/assets/147d62f5-9a07-4981-b6a0-97bd67b99149" />
+
+### Vehicle Types involved in Road Transport Crashes
+<img width="1919" height="1079" alt="5" src="https://github.com/user-attachments/assets/3eedb74d-e41c-40ec-9f76-e86842dca5da" />
+
+### Gender Distribution of Humans involved in Road transport crashes
+<img width="1919" height="1079" alt="6" src="https://github.com/user-attachments/assets/4970cdd6-cdc5-4ace-9e91-25129d375068" />
+
+### Total Road Transport Crashes
+<img width="1919" height="1079" alt="7" src="https://github.com/user-attachments/assets/ea65b5a4-6f63-41b4-b059-6e70192e1060" />
+
+<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/0b90e269-38c3-453e-bbe2-3d96ddf6ef8c" />
+
+<img width="1919" height="1079" alt="9" src="https://github.com/user-attachments/assets/5dc49c3d-fc68-471a-bfa1-344614128658" />
