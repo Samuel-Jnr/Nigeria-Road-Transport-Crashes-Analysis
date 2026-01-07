@@ -19,8 +19,12 @@ The Data used for this analysis is gotten from National Bureau of Statistics dat
 - Category of vehicles involved road traffic crashes
 - Sex distribution of persons injured
 
-
 ## Tools
-Microsoft Excel, PivotTable, PivotChart, SUMIF, AVERAGEIF, Microsoft PowerPoint
+Microsoft Excel, PivotTable, PivotChart, SUMIF, AVERAGEIF, Microsoft PowerPoint.
+
+## Definition of Terms
+- Fatal Crash is defined as a collision that directly results in the death of at least one individual, either at the scene or within 30 days post-crash due to injuries sustained or direct complications (WHO, 2023). 
+- A Serious Crash is defined as an event that results in injury to any of the parties involved and requires medical attention. 
+- A Minor Crash is defined as an event where no one needs medical attention but an injured person may sustain some bruising and superficial cuts (Shakil et al., 2023).
 
 ## Insights
