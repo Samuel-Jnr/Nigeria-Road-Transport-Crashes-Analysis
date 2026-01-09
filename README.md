@@ -28,27 +28,73 @@ Microsoft Excel, PivotTable, PivotChart, SUMIF, AVERAGEIF, Microsoft PowerPoint.
 - A Minor Crash is defined as an event where no one needs medical attention but an injured person may sustain some bruising and superficial cuts (Shakil et al., 2023).
 
 ## Metrics
-<img width="1919" height="1077" alt="1" src="https://github.com/user-attachments/assets/8bbb3e67-b91d-4795-b37d-859dbaf2c920" />
+![Metrics](1.png)
+
 
 
 ## Insights
 ### Vehicle Category
-<img width="1918" height="1079" alt="2" src="https://github.com/user-attachments/assets/ad2ac45c-ff33-43c9-ae87-c314516f9536" />
-
-<img width="1919" height="1077" alt="3" src="https://github.com/user-attachments/assets/e7fdf058-f62c-47e1-ad91-47dd229412ea" />
+![](2.png)
+![](3.png)
 
 ### Vehicle Category involvement in Road Transport Crashes by Quarter
-<img width="1919" height="1079" alt="4" src="https://github.com/user-attachments/assets/147d62f5-9a07-4981-b6a0-97bd67b99149" />
+![](4.png)
 
 ### Vehicle Types involved in Road Transport Crashes
-<img width="1919" height="1079" alt="5" src="https://github.com/user-attachments/assets/3eedb74d-e41c-40ec-9f76-e86842dca5da" />
+![](5.png)
 
 ### Gender Distribution of Humans involved in Road transport crashes
-<img width="1919" height="1079" alt="6" src="https://github.com/user-attachments/assets/4970cdd6-cdc5-4ace-9e91-25129d375068" />
+![](6.png)
 
 ### Total Road Transport Crashes
-<img width="1919" height="1079" alt="7" src="https://github.com/user-attachments/assets/ea65b5a4-6f63-41b4-b059-6e70192e1060" />
+![](7.png)
 
-<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/0b90e269-38c3-453e-bbe2-3d96ddf6ef8c" />
+![](8.png)
 
-<img width="1919" height="1079" alt="9" src="https://github.com/user-attachments/assets/5dc49c3d-fc68-471a-bfa1-344614128658" />
+![](9.png)
+
+### People Involved in Road traffic crashes 
+![](10.png)
+
+### Casualties and Death in Road Transport Crashes in Nigeria
+![](11.png)
+
+![](12.png)
+
+### Road Transport Crashes Fatality Rate per 100000 persons 
+![](13.png)
+
+### Road Transport Crashes Case Fatality Rate
+![](14.png)
+
+### Percentage Road traffic crashes fatality per Person involved
+![](15.png)
+
+## Causative Factors of Road Transport Accidents
+![](17.png)
+
+![](18.png)
+
+![](19.png)
+
+![](20.png)
+
+![](21.png)
+
+![](22.png)
+
+## SUMMARY
+Road traffic crashes pose a significant global health and development challenge, resulting in immense human, social, and economic losses. The North Central geo-political region experiences the highest frequency of crashes and involves the greatest number of people. In 2022, Nigeria recorded the highest number of crashes with a fatality rate per 100000 person of 2.77%, which decreased by 2023 and slightly increase in 2024. Speed violation remains the leading cause of road transport crashes In Nigeria.
+
+## RECOMMENDATION
+
+- The Ministry of Transport and the Federal Road Safety Corps should increase traffic police patrols in high-risk zones and impose stringent penalties and fines. Additionally, fixed, mobile, and point-to-point speed cameras should be utilized to enforce speed limits in areas where traffic police patrols are not readily available.
+- Since commercial vehicles are consistently the largest contributors, interventions like speed limiters, stricter licensing, and patrols should focus here.
+- Vehicle Speed limiters should be implemented in all vehicles that ply any road within Nigeria, not just commercial vehicles.
+- Road safety campaigns should intensify in Q4 each year to counter the seasonal spike.
+- Regional differences highlight the need for localized strategies rather than one-size-fits-all policies.
+
+
+
+
+
