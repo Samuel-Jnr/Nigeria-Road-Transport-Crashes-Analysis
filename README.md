@@ -94,6 +94,11 @@ Road traffic crashes pose a significant global health and development challenge,
 - Road safety campaigns should intensify in Q4 each year to counter the seasonal spike.
 - Regional differences highlight the need for localized strategies rather than one-size-fits-all policies.
 
+## REFERENCES
+- Inah, O. I., Ofem, M. I., Abam, F. I., Effiom, S. O., & Jimmy, O. O. (2025). Trend and Causative Factors of Road Traffic Crashes in Nigeria: A Six Sigma (DMAIC) Approach. Journal of Road Safety, 36(1), 53–65. https:/​/​doi.org/​10.33492/​JRS-D-25-1-2460893
+- Shakil, A., Md, A. H., Sayan, K. R., Bhuiyan, M. M. I., & Sabuj, S. R. (2023). A study on road accident prediction and contributing factors using explainable machine learning models: analysis and performance. Transportation Research Interdisciplinary Perspectives, 19, 100814. https:/​/​doi.org/​10.1016/​j.trip.2023.100814
+- WHO: Road Traffice Injuries. date: 13 december 2023. https://www.who.int/news-room/fact-sheets/detail/road-traf
+
 
 
 
